@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" role="img" aria-label="Security reconnaissance toolkit interface illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#06110f"/><stop offset="1" stop-color="#03080a"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#22d3ee" stop-opacity=".22"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#17302e" stroke-opacity=".4" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bg)"/>
+  <rect width="1200" height="750" fill="url(#grid)"/>
+  <ellipse cx="600" cy="300" rx="520" ry="320" fill="url(#glow)"/>
+  <rect x="80" y="60" width="1040" height="630" rx="16" fill="#081512" stroke="#1b3a36" stroke-width="2"/>
+  <rect x="80" y="60" width="1040" height="56" rx="16" fill="#0c1d1a"/>
+  <circle cx="112" cy="88" r="7" fill="#22d3ee" opacity=".8"/><circle cx="136" cy="88" r="7" fill="#3b82f6" opacity=".6"/><circle cx="160" cy="88" r="7" fill="#547084" opacity=".5"/>
+  <rect x="196" y="83" width="180" height="9" rx="4" fill="#2f5a53"/>
+  <g fill="#0d2420">
+    <rect x="110" y="150" width="250" height="510" rx="10"/><rect x="382" y="150" width="708" height="510" rx="10"/>
+  </g>
+  <g fill="#22d3ee" opacity=".55"><rect x="136" y="182" width="120" height="8" rx="4"/><rect x="136" y="222" width="160" height="8" rx="4" opacity=".7"/><rect x="136" y="262" width="104" height="8" rx="4" opacity=".6"/><rect x="136" y="302" width="140" height="8" rx="4" opacity=".7"/></g>
+  <g fill="#1b3a36"><rect x="136" y="350" width="200" height="8" rx="4"/><rect x="136" y="390" width="150" height="8" rx="4"/><rect x="136" y="430" width="180" height="8" rx="4"/></g>
+  <g stroke="#1b3a36"><path d="M136 480H340"/></g>
+  <rect x="136" y="510" width="204" height="34" rx="8" fill="#123a33" stroke="#22d3ee" stroke-opacity=".45"/><rect x="160" y="523" width="120" height="8" rx="4" fill="#22d3ee" opacity=".8"/>
+  <g font-family="monospace">
+    <g fill="#22d3ee" opacity=".85"><rect x="412" y="186" width="6" height="12" rx="2"/><rect x="428" y="186" width="230" height="10" rx="4"/></g>
+    <g fill="#5eead4" opacity=".7"><rect x="412" y="226" width="6" height="12" rx="2"/><rect x="428" y="226" width="310" height="10" rx="4"/><rect x="428" y="256" width="260" height="10" rx="4" opacity=".7"/><rect x="428" y="286" width="350" height="10" rx="4" opacity=".6"/></g>
+    <g fill="#7dd3fc" opacity=".65"><rect x="412" y="326" width="6" height="12" rx="2"/><rect x="428" y="326" width="200" height="10" rx="4"/><rect x="428" y="356" width="290" height="10" rx="4" opacity=".8"/><rect x="428" y="386" width="340" height="10" rx="4" opacity=".6"/></g>
+    <g fill="#fbbf24" opacity=".7"><rect x="412" y="426" width="6" height="12" rx="2"/><rect x="428" y="426" width="180" height="10" rx="4"/><rect x="428" y="456" width="270" height="10" rx="4" opacity=".7"/></g>
+    <g fill="#22d3ee" opacity=".7"><rect x="412" y="496" width="6" height="12" rx="2"/><rect x="428" y="496" width="320" height="10" rx="4"/><rect x="428" y="526" width="240" height="10" rx="4" opacity=".7"/></g>
+    <rect x="412" y="570" width="8" height="14" rx="2" fill="#22d3ee"/>
+    <rect x="430" y="574" width="150" height="8" rx="4" fill="#22d3ee" opacity=".4"/>
+  </g>
+  <g fill="none" stroke="#22d3ee" stroke-opacity=".18"><circle cx="1000" cy="520" r="70"/><circle cx="1000" cy="520" r="48"/><path d="M1000 430v180M910 520h180"/></g>
+</svg>
